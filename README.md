@@ -18,13 +18,9 @@
 Execute o ambiente de desenvolvimento:
 
 ```bash
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 A aplicação será disponibilizada na porta [http://localhost:3000](http://localhost:3000) no seu ambiente local.
