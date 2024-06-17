@@ -8,7 +8,7 @@
 
 - [ReactJS](https://react.dev/)
 - [Typescript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
+- [Next 14](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Lucide](https://lucide.dev/)
 - [ShadcnUI](https://ui.shadcn.com/)
